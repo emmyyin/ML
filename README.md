@@ -4,6 +4,7 @@ This project is used to test and learn about different machine learning models a
 
 ### Tools
 The packages and libraries used for this project is:
+- [Python 3](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
-- [sklearn](https://scikit-learn.org/stable/index.html)
+- [sklearn](https://scikit-learn.org/stable/index.html) 
 - [numpy](https://numpy.org/)
